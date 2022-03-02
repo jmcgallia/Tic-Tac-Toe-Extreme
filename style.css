@@ -38,6 +38,16 @@ body {
     border-width: 1px;
     border-color: black;
     background-color: burlywood;
+    font-size: 2rem;
+
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.game-cell img {
+    width: 60px;
+    height: 60px;
 }
 
 .menu-area {
